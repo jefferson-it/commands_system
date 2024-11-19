@@ -1,0 +1,16 @@
+{
+  "name": "my-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "touch": "node ./src/js/touch.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "fs-extra": "^10.0.1"
+  }
+}
